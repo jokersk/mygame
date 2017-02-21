@@ -1,3 +1,4 @@
+
 var game;
 var gridArr = [];
 var colrowNum = 6;
@@ -157,6 +158,7 @@ playGame.prototype = {
      },
      update: function(){
           
-     },
+     }
     
+
 }
